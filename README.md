@@ -9,7 +9,7 @@
 <img align="right"  src="https://i.imgur.com/BQdyp9w.png" alt="confusion_matrix" length = 200 width = 200>
 
 ### About the project
-This work is centered on an emerging NLP task, formally known as Fact Checking. We first analyzedand prepared the given dataset, then trained and evaluated sevan neural architectures chosen fromthe assignment specifications. Our best model obtained a accuracy of 75% and a "voting" accuracy of75%. Finally, we also trained and evaluated an architecture which includes an attention mechanism,obtaining a standard test accuracy of 78% and a "voting" test accuracy of 79%.
+This work is centered on an emerging NLP task, formally known as Fact Checking. We first analyzedand prepared the given dataset, then trained and evaluated seven neural architectures chosen fromthe assignment specifications. Our best model obtained a accuracy of 75% and a "voting" accuracy of75%. Finally, we also trained and evaluated an architecture which includes an attention mechanism,obtaining a standard test accuracy of 78% and a "voting" test accuracy of 79%.
 
 ### Members
 
